@@ -77,5 +77,7 @@ The project demonstrates the potential of quantum machine learning in enhancing 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
+The presentation deck is uploaded to repository.
+
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
